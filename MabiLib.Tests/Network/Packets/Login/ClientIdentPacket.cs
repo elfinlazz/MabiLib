@@ -5,7 +5,7 @@ using MabiLib.Network;
 using MabiLib.Network.Packets.Login;
 using Xunit;
 
-namespace MabiLib.Tests.Network.Packets
+namespace MabiLib.Tests.Network.Packets.Login
 {
 	public class ClientIdentPacketTests
 	{
