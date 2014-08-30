@@ -52,10 +52,6 @@
     <Compile Include="Const\ReviveOptions.cs" />
     <Compile Include="Const\Skills.cs" />
     <Compile Include="Const\Stats.cs" />
-    <Compile Include="Network\Client.cs" />
-    <Compile Include="Network\PacketReceiver.cs" />
-    <Compile Include="Network\Packets\Login\ClientIdent.cs" />
-    <Compile Include="Network\Packets\PacketHandlerSender.cs" />
     <Compile Include="Util\BCrypt.cs" />
     <Compile Include="Util\ErinnTime.cs" />
     <Compile Include="Util\Dictionary.cs" />
